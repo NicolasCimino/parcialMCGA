@@ -1,0 +1,10 @@
+C:\Users\Nicolas\Desktop\ParcialCimino\ParcialCimino\obj\Debug\ParcialCimino.csprojAssemblyReference.cache
+C:\Users\Nicolas\Desktop\ParcialCimino\ParcialCimino\obj\Debug\ParcialCimino.Form1.resources
+C:\Users\Nicolas\Desktop\ParcialCimino\ParcialCimino\obj\Debug\ParcialCimino.Properties.Resources.resources
+C:\Users\Nicolas\Desktop\ParcialCimino\ParcialCimino\obj\Debug\ParcialCimino.csproj.GenerateResource.cache
+C:\Users\Nicolas\Desktop\ParcialCimino\ParcialCimino\obj\Debug\ParcialCimino.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\Desktop\ParcialCimino\ParcialCimino\bin\Debug\ParcialCimino.exe.config
+C:\Users\Nicolas\Desktop\ParcialCimino\ParcialCimino\bin\Debug\ParcialCimino.exe
+C:\Users\Nicolas\Desktop\ParcialCimino\ParcialCimino\bin\Debug\ParcialCimino.pdb
+C:\Users\Nicolas\Desktop\ParcialCimino\ParcialCimino\obj\Debug\ParcialCimino.exe
+C:\Users\Nicolas\Desktop\ParcialCimino\ParcialCimino\obj\Debug\ParcialCimino.pdb
